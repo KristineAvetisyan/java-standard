@@ -34,6 +34,7 @@ public class JavaApplication1 {
                 break;
             }
         }
+        //hola
         
         System.out.println("La palabra " + (esPalindromo ? "es" : "no es") + " Palindromo");
         
